@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Virus2322 aka Hammadhassan living life with some coding as a frontend developer. 
+- 👋 Hi, I’m Hammadhassan living life with some coding as a frontend developer. 
 - 👀 I’m interested in coding as well as in some games and editing skills beside that i love outdoor activites like playing some outdoor games with friends or just hangout with them.
 - 🌱 I’m currently learning php laravel 
 - 💞️ I’m looking to collaborate on anything related to coding like frontend things or backend
